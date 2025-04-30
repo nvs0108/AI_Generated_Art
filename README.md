@@ -1,5 +1,5 @@
 # AI Generated Art
-This project allows users to generate AI artwork through a web interface. By utilizing advanced machine learning models, the app takes input prompts or parameters and processes them through a backend server to create unique pieces of art. The app provides both frontend and backend components for seamless interaction and generation of AI-generated art.
+This project allows users to generate AI artwork through a web interface. By utilizing advanced machine learning models, the app takes input prompts or parameters and processes them through a backend server to create unique pieces of art. The app provides both frontend and backend components for seamless interaction and the generation of AI-generated art.
 
 ## Features
 - Web-based user interface for generating AI artwork.
@@ -30,7 +30,7 @@ To run the project locally, ensure you have the following installed:
    `cd client`  
    `npm start`
 
-This will start the backend server and the frontend client. The frontend will be accessible at `http://localhost:3000`, and the server will be running on its own port.
+This will start the backend server and the frontend client. The frontend will be accessible at `http://localhost:3000`, and the server will be running on its port.
 
 ## Usage
 Once the app is running, follow these steps:
@@ -58,7 +58,7 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 5. Open a pull request to submit your changes.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open source and free to use.
 
 ## Acknowledgments
 - Thanks to the creators of the machine learning models used for generating AI artwork.
